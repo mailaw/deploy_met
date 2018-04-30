@@ -12,16 +12,16 @@
   </div>
 </div>
 <div id="painting-info" class="row">
-  <div class="col-md-4">
+  <div class="col-md-6">
     <a href={{image}}><img id="image" alt="painting image" src={{ image }}></a>
   </div>
-  <div class="col-md-8">
+  <div class="col-md-6">
     <div class="row">
       <ul>
-          <li>Date: {{ date }}</li>
-          <li>Medium: {{ medium }}</li>
-          <li> {{ teaserText }}</li>
-          <li> {{ galleryInformation }}</li>
+          <li class="info"><b>Date:</b> {{ date }}</li>
+          <li class="info"><b>Medium:</b> {{ medium }}</li>
+          <li class="info"><b>Description:</b> {{ description }}</li>
+          <li class="info"><b>Gallery Info:</b> {{ galleryInformation }}</li>
       </ul>
     </div>
     <div class="row">
@@ -31,12 +31,23 @@
 
 <div class="row">
   <div class="col-md-12">
-    <a href="/themet/paintings/{{ p.pk }}" class="painting-name">
-      {{ p.name }}
-    </a>
-  </div>
-  <a href="https://www.google.com/maps/search/{{p.description}}" target="_blank"><p>Address: {{p.description}}</p></a>
-  <img class="locator" src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png">
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: 40.779550, lng: -73.963437};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: nyc
+        });
+        var marker = new google.maps.Marker({
+          position: nyc,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC5d8LwgXQTSKc8pc-YZB_wEszI0gwsFG0&callback=initMap">
+    </script>
 </div>
-
+</div>
 {% endblock %}

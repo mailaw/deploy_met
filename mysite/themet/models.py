@@ -13,7 +13,7 @@ class Painting(models.Model):
 	medium = models.CharField(max_length=100)
 	accessionNumber = models.CharField(max_length=20)
 	galleryInformation = models.CharField(max_length=300)
-
+	galleryURL = models.URLField(max_length=300, null=True)
 	#tract = models.ForeignKey(IncomeTract, on_delete=models.CASCADE)#foreign key
 
 	#string method, determines how django will reference this object in the admin

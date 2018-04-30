@@ -5,7 +5,7 @@
   /*border: 1px #D3D3D3 solid;
   border-radius: 5px;*/
 }
-.tile-info a:hover{
+a:hover{
   text-decoration: none;
   color: red;
 }
@@ -14,7 +14,14 @@
   margin: 3;
 
 }
+#detail-header, .header h1{
+  font-family: 'Crimson Text', serif;
+  font-size: 50px;
+}
 
+.piechart-mediums h2{
+  font-family: 'Crimson Text', serif;
+}
 .tile-info h4{
   font-size: 15px;
   font-family: 'Crimson Text', serif;
@@ -29,11 +36,22 @@
   margin-bottom: 10px;
 
 }
-
+#map {
+        height: 300px;
+        width: 80%;
+       }
 .piechart-mediums {
   text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 60%;
+}
+
+.info{
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  background-color: #D3D3D3;
+  border-radius: 5px;
 }

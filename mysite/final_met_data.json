@@ -29,7 +29,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": "45.128.13",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1002
@@ -64,7 +65,8 @@
       "date": "ca. 1670 or slightly later",
       "medium": "Oil on wood",
       "accessionNumber": 71.7,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1004
@@ -135,7 +137,8 @@
       "date": "probably ca. 1820",
       "medium": "Oil on canvas",
       "accessionNumber": "25.110.8",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1008
@@ -152,7 +155,8 @@
       "date": "ca. 1915���23",
       "medium": "Oil on canvas",
       "accessionNumber": "1998.451.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1009
@@ -205,7 +209,8 @@
       "date": 1676,
       "medium": "Oil on canvas",
       "accessionNumber": "11.149.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1012
@@ -222,7 +227,8 @@
       "date": "ca. 1500���1505",
       "medium": "Oil, gold, and white metal on wood",
       "accessionNumber": "71.40ab",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1013
@@ -293,7 +299,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": "49.7.40",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1017
@@ -310,7 +317,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": "29.100.103",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1018
@@ -327,7 +335,8 @@
       "date": 1909,
       "medium": "Oil on canvas",
       "accessionNumber": 20.33,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1019
@@ -362,7 +371,8 @@
       "date": "ca. 1769���70",
       "medium": "Oil on canvas",
       "accessionNumber": "53.61.5",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1021
@@ -379,7 +389,8 @@
       "date": "ca. 1865",
       "medium": "Oil on canvas",
       "accessionNumber": "29.100.193",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1022
@@ -414,7 +425,8 @@
       "date": "1532���33",
       "medium": "Oil on beech, with letterpress-printed paper labels",
       "accessionNumber": "46.179.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1024
@@ -431,7 +443,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": "37.20.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1025
@@ -448,7 +461,8 @@
       "date": "Unrecorded",
       "medium": "Oil on copper",
       "accessionNumber": "62.122.128",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1026
@@ -519,7 +533,8 @@
       "date": 1480,
       "medium": "Oil and gold on wood",
       "accessionNumber": 54.195,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1030
@@ -590,7 +605,8 @@
       "date": "Unrecorded",
       "medium": "Oil on wood",
       "accessionNumber": "1976.100.15",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1034
@@ -607,7 +623,8 @@
       "date": "1586���1630",
       "medium": "Brush and brown wash, highlighted with white oil paint, on brown-washed paper",
       "accessionNumber": 68.39,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1035
@@ -624,7 +641,8 @@
       "date": "early 1670s",
       "medium": "Oil on canvas",
       "accessionNumber": "1980.203.5",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1036
@@ -641,7 +659,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": "32.100.85",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1037
@@ -658,7 +677,8 @@
       "date": "ca. 1520",
       "medium": "Oil on wood",
       "accessionNumber": "32.100.53",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1038
@@ -711,7 +731,8 @@
       "date": 1717,
       "medium": "Pastel and chalk on blue laid paper, laid down on paste paper",
       "accessionNumber": 2007.361,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1041
@@ -746,7 +767,8 @@
       "date": 1823,
       "medium": "Oil on canvas",
       "accessionNumber": 1999.101,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1043
@@ -763,7 +785,8 @@
       "date": "ca. 1650, reworked probably 18th century",
       "medium": "Oil on canvas",
       "accessionNumber": "91.26.10",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1044
@@ -780,7 +803,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": "29.100.102",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1045
@@ -815,7 +839,8 @@
       "date": "ca. 1628",
       "medium": "Oil on canvas",
       "accessionNumber": "45.128.14",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1047
@@ -886,7 +911,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": 43.23,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1051
@@ -903,7 +929,8 @@
       "date": 1782,
       "medium": "Oil on canvas",
       "accessionNumber": "25.110.188",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1052
@@ -920,7 +947,8 @@
       "date": 1875,
       "medium": "Oil on canvas",
       "accessionNumber": "94.24.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1053
@@ -955,7 +983,8 @@
       "date": "1730s",
       "medium": "Oil on canvas",
       "accessionNumber": 1985.5,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1055
@@ -1008,7 +1037,8 @@
       "date": "Unrecorded",
       "medium": "Oil on canvas",
       "accessionNumber": "87.15.110",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1058
@@ -1097,7 +1127,8 @@
       "date": "ca. 1780",
       "medium": "Oil on canvas",
       "accessionNumber": "50.145.16",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1063
@@ -1150,7 +1181,8 @@
       "date": "1770s",
       "medium": "Oil on canvas",
       "accessionNumber": "17.120.224",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1066
@@ -1185,7 +1217,8 @@
       "date": "Unrecorded",
       "medium": "Oil, gold, and white metal on linden",
       "accessionNumber": 12.75,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1068
@@ -1202,7 +1235,8 @@
       "date": "Unrecorded",
       "medium": "Oil on wood",
       "accessionNumber": "91.26.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1069
@@ -1219,7 +1253,8 @@
       "date": 1784,
       "medium": "Oil on canvas",
       "accessionNumber": "15.30.38",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1070
@@ -1326,7 +1361,8 @@
       "date": "ca. 1665",
       "medium": "Oil on canvas",
       "accessionNumber": "20.155.6",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1076
@@ -1343,7 +1379,8 @@
       "date": "Unrecorded",
       "medium": "Oil on wood",
       "accessionNumber": 53.18,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1077
@@ -1360,7 +1397,8 @@
       "date": 1512,
       "medium": "Oil on linden",
       "accessionNumber": 12.115,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1078
@@ -1377,7 +1415,8 @@
       "date": "ca. 1820",
       "medium": "Oil on canvas",
       "accessionNumber": "15.30.48",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1079
@@ -1394,7 +1433,8 @@
       "date": "Unrecorded",
       "medium": "Oil on wood",
       "accessionNumber": 39.143,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1080
@@ -1465,7 +1505,8 @@
       "date": "1660���64",
       "medium": "Brush with red-brown, brown and blue oil paint",
       "accessionNumber": "1975.131.18",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1084
@@ -1518,7 +1559,8 @@
       "date": "Unrecorded",
       "medium": "Oil on wood",
       "accessionNumber": "32.100.37",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1087
@@ -1553,7 +1595,8 @@
       "date": "Unrecorded",
       "medium": "Oil on wood",
       "accessionNumber": "21.134.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1089
@@ -1588,7 +1631,8 @@
       "date": "Unrecorded",
       "medium": "Oil on wood",
       "accessionNumber": "32.100.114",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1091
@@ -1677,7 +1721,8 @@
       "date": "ca. 1525���27",
       "medium": "Oil on wood",
       "accessionNumber": "88.3.88",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1096
@@ -1694,7 +1739,8 @@
       "date": 1880,
       "medium": "Oil on wood",
       "accessionNumber": "1972.145.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1097
@@ -1729,7 +1775,8 @@
       "date": "1790s",
       "medium": "Oil on canvas",
       "accessionNumber": 6.1242,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1099
@@ -1764,7 +1811,8 @@
       "date": 1965,
       "medium": "Oil on Masonite",
       "accessionNumber": "1975.1.2379",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1101
@@ -1799,7 +1847,8 @@
       "date": 1867,
       "medium": "Oil on canvas",
       "accessionNumber": "64.198.5",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1103
@@ -1834,7 +1883,8 @@
       "date": 1940,
       "medium": "Oil on canvas",
       "accessionNumber": "1986.406.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1105
@@ -1851,7 +1901,8 @@
       "date": 1849,
       "medium": "Oil on canvas",
       "accessionNumber": 24.186,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1106
@@ -1922,7 +1973,8 @@
       "date": 2003,
       "medium": "Oil on canvas",
       "accessionNumber": 2005.233,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1110
@@ -1939,7 +1991,8 @@
       "date": 1912,
       "medium": "Oil on canvas",
       "accessionNumber": 17.36,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1111
@@ -1956,7 +2009,8 @@
       "date": 1960,
       "medium": "Oil on paper mounted on board",
       "accessionNumber": 62.59,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1112
@@ -1973,7 +2027,8 @@
       "date": 1973,
       "medium": "Oil on canvas",
       "accessionNumber": 1976.22,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1113
@@ -1990,7 +2045,8 @@
       "date": "1955���56",
       "medium": "Oil on canvas",
       "accessionNumber": "56.197.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1114
@@ -2025,7 +2081,8 @@
       "date": 1938,
       "medium": "Oil on canvas",
       "accessionNumber": 46.42,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1116
@@ -2078,7 +2135,8 @@
       "date": 1999,
       "medium": "Acrylic and oil on canvas",
       "accessionNumber": 2013.111,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1119
@@ -2149,7 +2207,8 @@
       "date": 1979,
       "medium": "Oil on canvas",
       "accessionNumber": 1979.184,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1123
@@ -2166,7 +2225,8 @@
       "date": 1952,
       "medium": "Oil on canvas",
       "accessionNumber": 53.172,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1124
@@ -2183,7 +2243,8 @@
       "date": 1953,
       "medium": "Oil on Masonite",
       "accessionNumber": 54.112,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1125
@@ -2218,7 +2279,8 @@
       "date": 2000,
       "medium": "Graphite mixed with oil and resin on coated paper",
       "accessionNumber": 2001.147,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1127
@@ -2235,7 +2297,8 @@
       "date": 1937,
       "medium": "Oil on canvas",
       "accessionNumber": "67.187.145",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1128
@@ -2252,7 +2315,8 @@
       "date": 2000,
       "medium": "Oil on canvas",
       "accessionNumber": 2001.684,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1129
@@ -2287,7 +2351,8 @@
       "date": 1983,
       "medium": "Oil on canvas",
       "accessionNumber": 1984.2,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1131
@@ -2304,7 +2369,8 @@
       "date": 1961,
       "medium": "Oil on canvas board",
       "accessionNumber": 66.213,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1132
@@ -2321,7 +2387,8 @@
       "date": 1926,
       "medium": "Oil on canvas",
       "accessionNumber": "67.187.50",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1133
@@ -2338,7 +2405,8 @@
       "date": 1958,
       "medium": "Oil on canvas",
       "accessionNumber": "1975.1.2377",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1134
@@ -2355,7 +2423,8 @@
       "date": "by 1891",
       "medium": "Oil on cardboard",
       "accessionNumber": 41.125,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1135
@@ -2372,7 +2441,8 @@
       "date": 1935,
       "medium": "Oil on canvas with selective varnish",
       "accessionNumber": "49.70.37",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1136
@@ -2389,7 +2459,8 @@
       "date": "ca. 1900���1910",
       "medium": "Oil on board",
       "accessionNumber": "1979.139.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1137
@@ -2406,7 +2477,8 @@
       "date": 1987,
       "medium": "Oil on canvas",
       "accessionNumber": 1988.49,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1138
@@ -2423,7 +2495,8 @@
       "date": 1913,
       "medium": "Oil on canvas",
       "accessionNumber": "1975.1.150",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1139
@@ -2440,7 +2513,8 @@
       "date": 1974,
       "medium": "Oil on canvas",
       "accessionNumber": 1975.33,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1140
@@ -2457,7 +2531,8 @@
       "date": 1975,
       "medium": "Oil on canvas",
       "accessionNumber": 1975.307,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1141
@@ -2492,7 +2567,8 @@
       "date": "ca. 1914",
       "medium": "Oil on canvas",
       "accessionNumber": 14.71,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1143
@@ -2509,7 +2585,8 @@
       "date": 1953,
       "medium": "Oil on canvas",
       "accessionNumber": 55.82,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1144
@@ -2526,7 +2603,8 @@
       "date": 1921,
       "medium": "Oil with sand on canvas",
       "accessionNumber": "1996.403.11",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1145
@@ -2561,7 +2639,8 @@
       "date": 1931,
       "medium": "Oil on canvas",
       "accessionNumber": "32.83.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1147
@@ -2578,7 +2657,8 @@
       "date": 1909,
       "medium": "Oil on commercially prepared paperboard (academy board)",
       "accessionNumber": "49.70.47",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1148
@@ -2595,7 +2675,8 @@
       "date": 1944,
       "medium": "Oil on canvas",
       "accessionNumber": 63.189,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1149
@@ -2612,7 +2693,8 @@
       "date": "1954���55",
       "medium": "Oil on composition board",
       "accessionNumber": 55.98,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1150
@@ -2629,7 +2711,8 @@
       "date": 1965,
       "medium": "Oil on canvas laid on board",
       "accessionNumber": 2017.107,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1151
@@ -2664,7 +2747,8 @@
       "date": 1988,
       "medium": "Oil on canvas",
       "accessionNumber": "1991.474.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1153
@@ -2681,7 +2765,8 @@
       "date": 1995,
       "medium": "Oil on canvas",
       "accessionNumber": 1996.38,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1154
@@ -2716,7 +2801,8 @@
       "date": "1870s",
       "medium": "Oil on paper",
       "accessionNumber": 1999.25,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1156
@@ -2751,7 +2837,8 @@
       "date": 1958,
       "medium": "Oil on canvas",
       "accessionNumber": "1982.148.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1158
@@ -2768,7 +2855,8 @@
       "date": "ca. 1550",
       "medium": "Oil on copper alloy",
       "accessionNumber": "1975.1.1411",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1159
@@ -2785,7 +2873,8 @@
       "date": 1907,
       "medium": "Oil on canvas",
       "accessionNumber": "67.187.159",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1160
@@ -2820,7 +2909,8 @@
       "date": "ca.1749���52",
       "medium": "Oil on canvas",
       "accessionNumber": "2017.164.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1162
@@ -2837,7 +2927,8 @@
       "date": 1858,
       "medium": "Oil on canvas",
       "accessionNumber": "50.155.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1163
@@ -2854,7 +2945,8 @@
       "date": 1924,
       "medium": "Oil on canvas",
       "accessionNumber": "1984.433.7",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1164
@@ -2889,7 +2981,8 @@
       "date": 1937,
       "medium": "Oil on canvas",
       "accessionNumber": "2002.456.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1166
@@ -2906,7 +2999,8 @@
       "date": 1990,
       "medium": "Oil and acrylic on canvas",
       "accessionNumber": "1993.495.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1167
@@ -2941,7 +3035,8 @@
       "date": 1949,
       "medium": "Oil on paper, mounted on wood",
       "accessionNumber": 1984.611,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1169
@@ -2958,7 +3053,8 @@
       "date": 1937,
       "medium": "Oil on canvas board",
       "accessionNumber": "39.48.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1170
@@ -2993,7 +3089,8 @@
       "date": "1870s",
       "medium": "Oil on slate paper",
       "accessionNumber": "54.90.510",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1172
@@ -3010,7 +3107,8 @@
       "date": "1870s",
       "medium": "Oil on slate paper",
       "accessionNumber": "54.90.512",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1173
@@ -3045,7 +3143,8 @@
       "date": "ca. 1890",
       "medium": "Oil on canvas",
       "accessionNumber": 2017.294,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1175
@@ -3062,7 +3161,8 @@
       "date": 1962,
       "medium": "Ink marker, oil paint, cut-and-pasted printed paper, torn-and-pasted cardboard, cut-and-pasted canvas and plastic, and watercolor on paper",
       "accessionNumber": "2002.456.56",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1176
@@ -3079,7 +3179,8 @@
       "date": "ca. 1850",
       "medium": "Oil on canvas",
       "accessionNumber": "54.90.177",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1177
@@ -3096,7 +3197,8 @@
       "date": "1948���49",
       "medium": "Oil on wood",
       "accessionNumber": "50.28.5",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1178
@@ -3113,7 +3215,8 @@
       "date": "1981���83",
       "medium": "Oil on canvas",
       "accessionNumber": 1984.93,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1179
@@ -3148,7 +3251,8 @@
       "date": 1948,
       "medium": "Oil and enamel on paper, mounted on wood",
       "accessionNumber": "1984.613.7",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1181
@@ -3183,7 +3287,8 @@
       "date": "1970���72",
       "medium": "Oil on Masonite",
       "accessionNumber": 1974.188,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1183
@@ -3200,7 +3305,8 @@
       "date": 1928,
       "medium": "Oil on board",
       "accessionNumber": "47.100.1291",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1184
@@ -3235,7 +3341,8 @@
       "date": 1991,
       "medium": "Graphite, encaustic, and oil on torn and taped papers",
       "accessionNumber": "1991.400.4",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1186
@@ -3252,7 +3359,8 @@
       "date": "1986���87",
       "medium": "Pigment and oil on paper",
       "accessionNumber": "1988.89.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1187
@@ -3269,7 +3377,8 @@
       "date": "ca. 1904",
       "medium": "Oil on canvas",
       "accessionNumber": 8.129,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1188
@@ -3340,7 +3449,8 @@
       "date": 1985,
       "medium": "Oil stick on paper",
       "accessionNumber": "1986.32.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1192
@@ -3375,7 +3485,8 @@
       "date": "ca. 1925",
       "medium": "Oil on canvas",
       "accessionNumber": 68.22,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1194
@@ -3464,7 +3575,8 @@
       "date": "1870s",
       "medium": "Oil on slate paper",
       "accessionNumber": "54.90.506",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1199
@@ -3481,7 +3593,8 @@
       "date": "ca. 1902",
       "medium": "Oil on canvas",
       "accessionNumber": 15.15,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1200
@@ -3498,7 +3611,8 @@
       "date": 1973,
       "medium": "Oil on canvas",
       "accessionNumber": 1978.154,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1201
@@ -3533,7 +3647,8 @@
       "date": 1883,
       "medium": "Oil on panel",
       "accessionNumber": "08.136.10",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1203
@@ -3550,7 +3665,8 @@
       "date": 1903,
       "medium": "Oil on canvas",
       "accessionNumber": "1984.433.22",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1204
@@ -3585,7 +3701,8 @@
       "date": 1939,
       "medium": "Oil on canvas",
       "accessionNumber": "43.47.13",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1206
@@ -3602,7 +3719,8 @@
       "date": 1893,
       "medium": "Oil on canvas",
       "accessionNumber": 99.28,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1207
@@ -3619,7 +3737,8 @@
       "date": 1939,
       "medium": "Oil on canvas",
       "accessionNumber": "53.45.5",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1208
@@ -3636,7 +3755,8 @@
       "date": "1958���59",
       "medium": "Oil on canvas",
       "accessionNumber": "2006.32.10",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1209
@@ -3653,7 +3773,8 @@
       "date": 1918,
       "medium": "Oil on canvas",
       "accessionNumber": "1999.363.56",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1210
@@ -3670,7 +3791,8 @@
       "date": 1977,
       "medium": "Oil on canvas",
       "accessionNumber": 1978.17,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1211
@@ -3723,7 +3845,8 @@
       "date": "ca. 1835",
       "medium": "Oil on wood",
       "accessionNumber": "2006.235.242",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1214
@@ -3740,7 +3863,8 @@
       "date": 1984,
       "medium": "Oil and pastel on paper",
       "accessionNumber": 1984.414,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1215
@@ -3775,7 +3899,8 @@
       "date": 1907,
       "medium": "Oil on canvas",
       "accessionNumber": "66.74.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1217
@@ -3810,7 +3935,8 @@
       "date": "ca. 1933",
       "medium": "Oil on canvas",
       "accessionNumber": 38.48,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1219
@@ -3827,7 +3953,8 @@
       "date": "ca. 1937���38",
       "medium": "Oil on canvas",
       "accessionNumber": "2002.456.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1220
@@ -3844,7 +3971,8 @@
       "date": "ca. 1890",
       "medium": "Oil on canvas, mounted on masonite",
       "accessionNumber": "1980.360.8",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1221
@@ -3861,7 +3989,8 @@
       "date": 1956,
       "medium": "Painted and cut sections of oil on canvas mounted on canvas",
       "accessionNumber": "2006.32.41",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1222
@@ -3878,7 +4007,8 @@
       "date": "1887���1908",
       "medium": "Oil on canvas",
       "accessionNumber": 12.47,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1223
@@ -3895,7 +4025,8 @@
       "date": "ca. 1850",
       "medium": "Oil on canvas",
       "accessionNumber": "1975.1.244",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1224
@@ -3912,7 +4043,8 @@
       "date": 1925,
       "medium": "Oil on canvas",
       "accessionNumber": 36.15,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1225
@@ -3929,7 +4061,8 @@
       "date": 1913,
       "medium": "Gouache and oil on tan wove paper",
       "accessionNumber": "2016.237.18",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1226
@@ -3946,7 +4079,8 @@
       "date": 1957,
       "medium": "Oil on paper, mounted on paperboard",
       "accessionNumber": 1999.425,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1227
@@ -3963,7 +4097,8 @@
       "date": 1926,
       "medium": "Oil on canvas",
       "accessionNumber": "61.101.9",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1228
@@ -3980,7 +4115,8 @@
       "date": 1907,
       "medium": "Oil on canvas",
       "accessionNumber": 41.58,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1229
@@ -3997,7 +4133,8 @@
       "date": 1905,
       "medium": "Oil on canvas",
       "accessionNumber": 1980.582,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1230
@@ -4032,7 +4169,8 @@
       "date": 1915,
       "medium": "Oil on canvas",
       "accessionNumber": 1994.394,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1232
@@ -4067,7 +4205,8 @@
       "date": 1995,
       "medium": "Oil on printed paper glued to canvas",
       "accessionNumber": "1995.517.6",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1234
@@ -4120,7 +4259,8 @@
       "date": "ca. 1895",
       "medium": "Oil on canvas",
       "accessionNumber": "08.237.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1237
@@ -4155,7 +4295,8 @@
       "date": 1987,
       "medium": "Oil on canvas",
       "accessionNumber": "1988.73.1a, b",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1239
@@ -4172,7 +4313,8 @@
       "date": "1986���88",
       "medium": "Acrylic, oil, oil stick, cut and pasted paper, pastel, and graphite on canvas",
       "accessionNumber": "1988.426.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1240
@@ -4207,7 +4349,8 @@
       "date": 1988,
       "medium": "Oil on canvas",
       "accessionNumber": 1991.5,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1242
@@ -4224,7 +4367,8 @@
       "date": 1952,
       "medium": "Oil on canvas",
       "accessionNumber": "2006.32.25",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1243
@@ -4259,7 +4403,8 @@
       "date": "finished 1909",
       "medium": "Oil on canvas",
       "accessionNumber": 9.223,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1245
@@ -4276,7 +4421,8 @@
       "date": 1832,
       "medium": "Oil on wood",
       "accessionNumber": "29.148.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1246
@@ -4293,7 +4439,8 @@
       "date": "ca. 1940",
       "medium": "Oil on canvas",
       "accessionNumber": "1997.102ab",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1247
@@ -4310,7 +4457,8 @@
       "date": "ca. 1913",
       "medium": "Oil on cardboard",
       "accessionNumber": "1991.18.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1248
@@ -4345,7 +4493,8 @@
       "date": 1961,
       "medium": "Oil on canvas",
       "accessionNumber": 62.58,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1250
@@ -4362,7 +4511,8 @@
       "date": "1988���93",
       "medium": "Oil on wood",
       "accessionNumber": "1994.41ab",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1251
@@ -4379,7 +4529,8 @@
       "date": 1983,
       "medium": "Oil on canvas",
       "accessionNumber": 1985.94,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1252
@@ -4414,7 +4565,8 @@
       "date": 1986,
       "medium": "Oil on canvas and wood",
       "accessionNumber": "1986.249ab",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1254
@@ -4431,7 +4583,8 @@
       "date": 1928,
       "medium": "Oil on canvas",
       "accessionNumber": "67.187.66",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1255
@@ -4448,7 +4601,8 @@
       "date": "17th century",
       "medium": "Oil on canvas",
       "accessionNumber": "1975.1.125",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1256
@@ -4501,7 +4655,8 @@
       "date": "ca. 1913",
       "medium": "Oil, plaster, and sand, on board",
       "accessionNumber": "1975.1.213",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1259
@@ -4536,7 +4691,8 @@
       "date": "ca. 1928",
       "medium": "Oil on plasterboard",
       "accessionNumber": "57.74a, b",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1261
@@ -4553,7 +4709,8 @@
       "date": 1986,
       "medium": "Oil on canvas",
       "accessionNumber": "1987.294.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1262
@@ -4570,7 +4727,8 @@
       "date": "1895 or early 1896",
       "medium": "Oil on cardboard",
       "accessionNumber": "1975.1.224",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1263
@@ -4587,7 +4745,8 @@
       "date": "ca. 1926",
       "medium": "Oil on canvas",
       "accessionNumber": 26.173,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1264
@@ -4640,7 +4799,8 @@
       "date": 1958,
       "medium": "Oil on canvas",
       "accessionNumber": 1995.603,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1267
@@ -4675,7 +4835,8 @@
       "date": 1981,
       "medium": "Oil on canvas",
       "accessionNumber": "1983.191.2",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1269
@@ -4692,7 +4853,8 @@
       "date": "ca. 1926���28",
       "medium": "Oil and graphite on canvas",
       "accessionNumber": "1995.226.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1270
@@ -4727,7 +4889,8 @@
       "date": "probably 1913���45",
       "medium": "Oil on canvas",
       "accessionNumber": "1975.1.151",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1272
@@ -4744,7 +4907,8 @@
       "date": "ca. 1884���1900",
       "medium": "Oil on canvas",
       "accessionNumber": "26.158.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1273
@@ -4779,7 +4943,8 @@
       "date": 1977,
       "medium": "Oil on canvas",
       "accessionNumber": "1986.419.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1275
@@ -4796,7 +4961,8 @@
       "date": "1956���57",
       "medium": "Oil on canvas",
       "accessionNumber": 57.146,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1276
@@ -4813,7 +4979,8 @@
       "date": "ca. 1913",
       "medium": "Oil on canvas",
       "accessionNumber": "67.187.135",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1277
@@ -4830,7 +4997,8 @@
       "date": 1929,
       "medium": "Oil on canvas",
       "accessionNumber": 68.221,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1278
@@ -4847,7 +5015,8 @@
       "date": "1893���1907",
       "medium": "Oil on canvas",
       "accessionNumber": "33.120.344",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1279
@@ -4864,7 +5033,8 @@
       "date": 1948,
       "medium": "Watercolor and oil on paper",
       "accessionNumber": "1991.402.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1280
@@ -4881,7 +5051,8 @@
       "date": 1991,
       "medium": "Oil on canvas",
       "accessionNumber": "1991.140.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1281
@@ -4952,7 +5123,8 @@
       "date": 1885,
       "medium": "Oil on canvas",
       "accessionNumber": 1971.245,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1285
@@ -4969,7 +5141,8 @@
       "date": 1950,
       "medium": "Oil on Masonite",
       "accessionNumber": 1981.489,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1286
@@ -5022,7 +5195,8 @@
       "date": 1964,
       "medium": "Oil on canvas",
       "accessionNumber": 1986.165,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1289
@@ -5039,7 +5213,8 @@
       "date": 1914,
       "medium": "Oil on canvas",
       "accessionNumber": "1984.433.3",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1290
@@ -5056,7 +5231,8 @@
       "date": 1957,
       "medium": "Oil on canvas",
       "accessionNumber": 57.48,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1291
@@ -5091,7 +5267,8 @@
       "date": 1944,
       "medium": "Oil on canvas",
       "accessionNumber": 47.59,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1293
@@ -5108,7 +5285,8 @@
       "date": 1985,
       "medium": "Oil and enamel on wood",
       "accessionNumber": 1986.222,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1294
@@ -5125,7 +5303,8 @@
       "date": "ca. 1782",
       "medium": "Oil on canvas",
       "accessionNumber": 85.1,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1295
@@ -5142,7 +5321,8 @@
       "date": 2016,
       "medium": "Oil on canvas",
       "accessionNumber": 2017.429,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1296
@@ -5159,7 +5339,8 @@
       "date": "Sorgues, summer 1912",
       "medium": "Ink, charcoal dipped in oil, and gouache on two sheets of off-white wove paper",
       "accessionNumber": "2016.237.34",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1297
@@ -5176,7 +5357,8 @@
       "date": 1906,
       "medium": "Oil on canvas",
       "accessionNumber": "2007.281.1",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1298
@@ -5193,7 +5375,8 @@
       "date": 1878,
       "medium": "Oil on canvas",
       "accessionNumber": "16.68.4",
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1299
@@ -5210,7 +5393,8 @@
       "date": "1959���64",
       "medium": "Oil on canvas",
       "accessionNumber": 2015.42,
-      "galleryInformation": "Not on view"
+      "galleryInformation": "Not on view",
+      "galleryURL":""
     },
     "model": "themet.painting",
     "pk": 1300
