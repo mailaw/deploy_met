@@ -1,0 +1,31 @@
+
+.tile-info{
+  padding-left: 15px;
+  padding-top: 10px;
+  /*border: 1px #D3D3D3 solid;
+  border-radius: 5px;*/
+}
+.tile-info a:hover{
+  text-decoration: none;
+  color: red;
+}
+.tile-info p{
+  font-size: 13px;
+  margin: 3;
+
+}
+
+.tile-info h4{
+  font-size: 15px;
+  font-family: 'Crimson Text', serif;
+
+  display: block;
+}
+.tile-img{
+  width: 150px;
+}
+
+.painting-tile{
+  margin-bottom: 10px;
+
+}

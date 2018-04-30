@@ -1,0 +1,42 @@
+{% extends "themet/base.html" %}
+
+{% block breadcrumbs %}
+    <li class="breadcrumb-item"><a href="{% url "themet:index" %}">Home</a></li>
+    <li class="breadcrumb-item active">Painting Details: {{painting.title}} {{title}}</li>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div id="detail-header" class="col-md-12">
+    <h2> {{ title }} </h2>
+  </div>
+</div>
+<div id="painting-info" class="row">
+  <div class="col-md-4">
+    <a href={{image}}><img id="image" alt="painting image" src={{ image }}></a>
+  </div>
+  <div class="col-md-8">
+    <div class="row">
+      <ul>
+          <li>Date: {{ date }}</li>
+          <li>Medium: {{ medium }}</li>
+          <li> {{ teaserText }}</li>
+          <li> {{ galleryInformation }}</li>
+      </ul>
+    </div>
+    <div class="row">
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="/themet/paintings/{{ p.pk }}" class="painting-name">
+      {{ p.name }}
+    </a>
+  </div>
+  <a href="https://www.google.com/maps/search/{{p.description}}" target="_blank"><p>Address: {{p.description}}</p></a>
+  <img class="locator" src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png">
+</div>
+
+{% endblock %}

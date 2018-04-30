@@ -1,0 +1,28 @@
+
+{% extends "themet/base.html" %}
+
+{% block breadcrumbs %}
+    <li class="breadcrumb-item"><a href="/themet">Home</a></li>
+    <li class="breadcrumb-item active">List</li>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    {% for o in objects %}
+    <div class="col-md-4">
+      <div class="row painting-tile">
+        <div class="col-md-6">
+        <a href="{{ o.image }}">
+          <img alt="Image not available" src="{{ o.image }}" class="tile-img img-responsive">
+        </a>
+      </div>
+        <div class="col-md-6 tile-info">
+          <a href="/themet/paintings/{{ o.pk }}"><h4>{{ o.title }}</h4></a>
+          <p>Date: {{o.date}}</p>
+          <p>Medium {{o.medium}}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+{% endblock %}
