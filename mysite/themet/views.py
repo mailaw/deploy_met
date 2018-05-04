@@ -30,7 +30,7 @@ def index(request):
              Painting.objects.filter(medium="Oil on slate paper").count(),
             ]
 
-    extra_serie = {"tooltip": {"y_start": "", "y_end": " cal"}}
+    extra_serie = {"tooltip": {"y_start": "", "y_end": " paintings"}}
     chartdata = {'x': xdata, 'y1': ydata, 'extra1': extra_serie}
     charttype = "pieChart"
 
@@ -153,7 +153,7 @@ def demo_piechart(request):
              Painting.objects.filter(medium="Oil on slate paper").count(),
             ]
 
-    extra_serie = {"tooltip": {"y_start": "", "y_end": " paintings"}}
+    extra_serie = {"tooltip": {"y_start": "", "y_end": ""}}
     chartdata = {'x': xdata, 'y1': ydata, 'extra1': extra_serie}
     charttype = "pieChart"
 
