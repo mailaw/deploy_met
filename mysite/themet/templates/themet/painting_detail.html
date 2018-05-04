@@ -1,4 +1,5 @@
 {% extends "themet/base.html" %}
+{% load static %}
 
 {% block breadcrumbs %}
     <li class="breadcrumb-item"><a href="{% url "themet:index" %}">Home</a></li>
@@ -11,43 +12,56 @@
     <h2> {{ title }} </h2>
   </div>
 </div>
-<div id="painting-info" class="row">
+<div class="row">
   <div class="col-md-6">
     <a href={{image}}><img id="image" alt="painting image" src={{ image }}></a>
   </div>
   <div class="col-md-6">
-    <div class="row">
-      <ul>
-          <li class="info"><b>Date:</b> {{ date }}</li>
-          <li class="info"><b>Medium:</b> {{ medium }}</li>
-          <li class="info"><b>Description:</b> {{ description }}</li>
-          <li class="info"><b>Gallery Info:</b> {{ galleryInformation }}</li>
-      </ul>
-    </div>
-    <div class="row">
-    </div>
+    <ul id="no-padding">
+        <li class="info"><b>Date:</b> {{ date }}</li>
+        <li class="info"><b>Medium:</b> {{ medium }}</li>
+        <li class="info"><b>Description:</b> {{ description }}</li>
+        <li class="info"><b>Gallery Info:</b> {{ galleryInformation }}</li>
+    </ul>
   </div>
 </div>
 
 <div class="row">
-  <div class="col-md-12">
-    <div id="map"></div>
+  <div class="col-md-6">
     <script>
-      function initMap() {
-        var uluru = {lat: 40.779550, lng: -73.963437};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
-          center: nyc
-        });
-        var marker = new google.maps.Marker({
-          position: nyc,
-          map: map
-        });
-      }
+        var map;
+        function initMap() {
+          map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 2,
+            center: new google.maps.LatLng(2.8,-187.3),
+            mapTypeId: 'terrain'
+          });
+
+          // Create a <script> tag and set the USGS URL as the source.
+          var script = document.createElement('script');
+          // This example uses a local copy of the GeoJSON stored at
+          // http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojsonp
+          script.src = '../map.json';
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+
+        // Loop through the results array and place a marker for each
+        // set of coordinates.
+        window.eqfeed_callback = function(results) {
+          for (var i = 0; i < results.features.length; i++) {
+            var coords = results.features[i].geometry.coordinates;
+            var latLng = new google.maps.LatLng(coords[1],coords[0]);
+            var marker = new google.maps.Marker({
+              position: latLng,
+              map: map
+            });
+          }
+        }
     </script>
+    <div id="map"></div>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC5d8LwgXQTSKc8pc-YZB_wEszI0gwsFG0&callback=initMap">
     </script>
-</div>
+ </div>
 </div>
 {% endblock %}

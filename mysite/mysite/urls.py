@@ -17,6 +17,6 @@ from django.contrib import admin
 from django.urls import include,path
 
 urlpatterns = [
-    path('themet/', include('themet.urls', namespace="polls")),
+    path('themet/', include('themet.urls', namespace="themet")),
     path('admin/', admin.site.urls),
 ]

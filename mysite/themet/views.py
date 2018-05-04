@@ -9,6 +9,7 @@ from django.shortcuts import render_to_response
 import random
 import datetime
 import time
+from django.db.models import Q
 
 def index(request):
     """
@@ -83,11 +84,55 @@ def ppainting_list(request):
     from themet.models import Painting
     objects = Painting.objects.filter(title__contains="portrait")
     #number = Painting.objects.filter(title__contains="portrait").count()
-    return render(request, "themet/ppainting_list.html", {
+    return render(request, "themet/painting_list.html", {
         "objects": objects,
         #"number":number,
     })
 
+#make the country names variables that can be changed
+def france_painting_list(request):
+    from themet.models import Painting
+    objects = Painting.objects.filter(teaserText__contains="French") | Painting.objects.filter(teaserText__contains="France")
+    return render(request, "themet/painting_list.html", {
+        "objects": objects,
+        #"number":number,
+    })
+
+def britain_painting_list(request):
+    from themet.models import Painting
+    objects = Painting.objects.filter(teaserText__contains="British") | Painting.objects.filter(teaserText__contains="Britain")
+    return render(request, "themet/painting_list.html", {
+        "objects": objects,
+        #"number":number,
+    })
+def american_painting_list(request):
+    from themet.models import Painting
+    objects = Painting.objects.filter(teaserText__contains="American")
+    return render(request, "themet/painting_list.html", {
+        "objects": objects,
+        #"number":number,
+    })
+def swiss_painting_list(request):
+    from themet.models import Painting
+    objects = Painting.objects.filter(teaserText__contains="Swiss")
+    return render(request, "themet/painting_list.html", {
+        "objects": objects,
+        #"number":number,
+    })
+def dutch_painting_list(request):
+    from themet.models import Painting
+    objects = Painting.objects.filter(teaserText__contains="Dutch")
+    return render(request, "themet/painting_list.html", {
+        "objects": objects,
+        #"number":number,
+    })
+def italian_painting_list(request):
+    from themet.models import Painting
+    objects = Painting.objects.filter(teaserText__contains="Italian")
+    return render(request, "themet/painting_list.html", {
+        "objects": objects,
+        #"number":number,
+    })
 
 def demo_piechart(request):
     """
@@ -108,7 +153,7 @@ def demo_piechart(request):
              Painting.objects.filter(medium="Oil on slate paper").count(),
             ]
 
-    extra_serie = {"tooltip": {"y_start": "", "y_end": " cal"}}
+    extra_serie = {"tooltip": {"y_start": "", "y_end": " paintings"}}
     chartdata = {'x': xdata, 'y1': ydata, 'extra1': extra_serie}
     charttype = "pieChart"
 

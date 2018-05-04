@@ -5,7 +5,7 @@
   /*border: 1px #D3D3D3 solid;
   border-radius: 5px;*/
 }
-.tile-info a:hover{
+a:hover{
   text-decoration: none;
   color: red;
 }
@@ -14,12 +14,24 @@
   margin: 3;
 
 }
+#detail-header{
+  font-family: 'Crimson Text', serif;
+  font-size: 50px;
+}
+.header h1{
+  font-family: 'Crimson Text', serif;
+  font-size: 50px;
+}
+
+.piechart-mediums h2{
+  font-family: 'Crimson Text', serif;
+}
 
 .tile-info h4{
   font-size: 15px;
-  font-family: 'Crimson Text', serif;
 
-  display: block;
+  font-family: 'Crimson Text', serif;
+  /*display: block;*/
 }
 .tile-img{
   width: 150px;
@@ -28,4 +40,30 @@
 .painting-tile{
   margin-bottom: 10px;
 
+}
+#map {
+    height:50%;
+    margin-top: 40px;
+}
+
+
+.piechart-mediums {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.info{
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  background-color: #D3D3D3;
+  border-radius: 5px;
+}
+
+#no-padding ul{
+  padding-left: 0px;
+  list-style-type: none;
 }
